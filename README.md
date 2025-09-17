@@ -19,7 +19,7 @@ Even though I’m just starting my journey, I’ve already built **two awesome p
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zouhair-Elyazji)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zouhair-elyazji-3aa50824b)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alyazjyzhyr@gmail.com)  
 
 ---
