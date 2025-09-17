@@ -5,13 +5,12 @@
 ---
 
 ## 💫 About Me  
-I’m a **junior frontend developer** passionate about crafting clean and engaging user interfaces.  
+I’m a **frontend developer** passionate about crafting clean and engaging user interfaces.  
 I enjoy building with **React** and **Next.js**, and I’m currently exploring the magic of **3D web experiences with Three.js**.  
 
 Even though I’m just starting my journey, I’ve already built **two awesome projects** that strengthened my skills and fueled my curiosity.  
 
 🎯 **My Goals:**  
-- Land a **remote frontend role**  
 - **Contribute to open-source projects**  
 - Continuously level up my expertise  
 
