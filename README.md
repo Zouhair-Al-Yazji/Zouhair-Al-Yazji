@@ -1,6 +1,9 @@
 # 💫 About Me:
-Hi iam Zouhair Elyazji<br>A passionate frontend developer
+Hi, I’m **Zouhair Elyazji** — a junior frontend developer passionate about crafting clean and engaging user interfaces. I love building with React and Next.js, and I’m currently exploring the magic of 3D web experiences with **Three.js**.
 
+Even though I’m at the start of my journey, I’ve already built two awesome projects that strengthened my skills and fueled my curiosity. My long-term goals include landing a **remote frontend role**, **collaborating on open-source projects**, and continuously leveling up my expertise.
+
+I believe great code should balance **performance, accessibility, and design** — because a smooth user experience isn’t just nice to have, it’s essential.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zouhair Elyazji) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alyazjyzhyr@gmail.com) 
