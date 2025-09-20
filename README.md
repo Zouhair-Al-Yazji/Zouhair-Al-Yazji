@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Zouhair Elyazji</h1>
-<h3 align="center">✨ Frontend Developer | React • Next.js • Three.js ✨</h3>
+<h3 align="center">✨ Frontend Developer | React • Next.js ✨</h3>
 
 ---
 
@@ -11,7 +11,7 @@ I enjoy building with **React** and **Next.js**, and I’m currently exploring t
 Even though I’m just starting my journey, I’ve already built **two awesome projects** that strengthened my skills and fueled my curiosity.  
 
 🎯 **My Goals:**  
-- **Contribute to open-source projects**  
+- Contribute to open-source projects  
 - Continuously level up my expertise  
 
 💡 I believe great code should balance **performance, accessibility, and design** — because a smooth user experience isn’t just nice to have, it’s essential.  
